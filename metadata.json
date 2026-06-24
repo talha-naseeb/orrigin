@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ORIGINN",
+  "description": "Sustainable customizable fashion brand from Pakistan. Your Story. Your Style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
